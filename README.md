@@ -9,3 +9,16 @@ An exploratory data analysis between different gym exercise, body parts worked, 
 - We will be using a dataset that contains information on different gym exercises, such as the type of exercise, equipment used, and the level of fitness a person needs to perform these exercises. Our goal is to identify patterns and trends in the data, such as the most popular exercises and the factors that influence exercise performance. By analyzing this data, we hope to provide valuable insights for gym owners and managers, as well as gym-goers, to help them make informed decisions about their exercise routines.    
 
 - This notebook is an <b>exploratory data analysis</b> between different gym exercise, body parts worked, equipment required to perform these exercises and much more. It is an analysis solely created because of my curiosity but I hope that the results deduced from the notebook are valuable.
+
+
+![Gym(3)](https://user-images.githubusercontent.com/100993371/223333924-388ef9ed-eb46-4d91-bc07-f9a6c8fac84a.png)
+
+
+
+![Gym(2)](https://user-images.githubusercontent.com/100993371/223333948-76292206-b89c-4cd5-b283-e397b17578d6.png)
+
+
+
+
+![gym(1)](https://user-images.githubusercontent.com/100993371/223333986-1bd387b9-9e07-425d-adf9-ec41dfb869f5.png)
+
