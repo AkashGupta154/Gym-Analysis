@@ -2,6 +2,10 @@
 An exploratory data analysis between different gym exercise, body parts worked, equipment required to perform these exercises.
 
 
+### Inspiration
+- If we go to a gym, the first thing you realize is the myriad of exercises available to do. The exercises range from bodyweight, machine-based or dumbbell/barbell based. With so many exercises to do, beginners or even professional can wonder which the exercise that will target a specific muscle the best and that is where this analysis can be useful. I also thought it would be fun to visualize the exercise details.
+
+
 ### Introduction
 
 - Gym exercises play a crucial role in helping people achieve their fitness goals and maintain good health. With a wide variety of exercises available, it can be challenging for gym-goers to choose the right routine for their needs. In this project, we aim to analyze gym exercise data to gain a deeper understanding of the most popular exercises and how they are being performed.   
